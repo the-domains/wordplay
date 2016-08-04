@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[wordplay]]></title>
         <description><![CDATA[wordplay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wordplay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 20:24:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 20:24:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wordplay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portraits of Dogs as They Shake Off Water]]></title>
+            <description><![CDATA[<article><h1>Portraits of Dogs as They Shake Off Water</h1><p>For her series " Shake", pet photographer Carli Davidson photographed curious portraits of dogs shaking off water. Use a fast shutter speed and you can capture all kinds of strange expressions on your dog's face. You can find the rest of the photographs in the series here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dccb8bf195de936f7fd6d736006e28abcefa5a63.jpg"></article>]]></description>
+            <link>http://petapixel.com/2011/07/28/portraits-of-dogs-as-they-shake-off-water/</link>
+            <guid isPermaLink="false">be6a7296-e3ec-4651-b90a-3715681b9432</guid>
+            <pubDate>Thu, 04 Aug 2016 20:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away]]></title>
+            <description><![CDATA[<article><h1>My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away</h1><p>Bear with me on this one. Let's say it's summer, end of August to be more precise. I live in Romania, I am a billionaire, and, of course, teleportation is possible. To make it easier for you to calculate (if you want to), use the Eastern European time (UTC+2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d514394de715e2d49831dc9410ecb72b24380f6d.jpg"></article>]]></description>
+            <link>http://travelaway.me/24-hours-teleporting-billionaire/</link>
+            <guid isPermaLink="false">20d0264e-6147-43e4-9654-ca07ded2cb78</guid>
+            <pubDate>Thu, 04 Aug 2016 20:24:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why You Need to Love Yourself More]]></title>
             <description><![CDATA[<article><h1>Why You Need to Love Yourself More</h1><p>I used to believe that love meant putting everyone else and their needs first, before my own. While I do think there is some truth to that, in the sense that being a giving person is one of the ultimate acts of being a loving person, I came to realize that I must give to and love myself first and foremost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6a2a90ce8ffccabb83684f228ad6037de398f.jpg"></article>]]></description>
