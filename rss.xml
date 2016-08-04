@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wordplay]]></title>
+        <description><![CDATA[wordplay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 20:24:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why You Need to Love Yourself More]]></title>
+            <description><![CDATA[<article><h1>Why You Need to Love Yourself More</h1><p>I used to believe that love meant putting everyone else and their needs first, before my own. While I do think there is some truth to that, in the sense that being a giving person is one of the ultimate acts of being a loving person, I came to realize that I must give to and love myself first and foremost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75b6a2a90ce8ffccabb83684f228ad6037de398f.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/sarah-bogdanski/why-you-need-to-love-yourself-more_b_9668778.html?utm_hp_ref=healthy-living</link>
+            <guid isPermaLink="false">d0a85a9b-956a-417b-b9d6-89bcea3bd679</guid>
+            <pubDate>Thu, 04 Aug 2016 20:24:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
