@@ -1,0 +1,14 @@
+name: wordplay
+layout_spectrum: 0.41212494914657904
+typography_spectrum: 0.5947350289390642
+color:
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+  brandStrength: 0.11737528281474441
+  lightness: 0.24254783292775228
+  saturation: 0.7553679581046547
+  rhythmicContrast: 0.38724513628690604
